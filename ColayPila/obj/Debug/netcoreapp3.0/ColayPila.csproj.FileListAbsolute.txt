@@ -1,0 +1,11 @@
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\bin\Debug\netcoreapp3.0\ColayPila.exe
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\bin\Debug\netcoreapp3.0\ColayPila.deps.json
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\bin\Debug\netcoreapp3.0\ColayPila.runtimeconfig.json
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\bin\Debug\netcoreapp3.0\ColayPila.runtimeconfig.dev.json
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\bin\Debug\netcoreapp3.0\ColayPila.dll
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\bin\Debug\netcoreapp3.0\ColayPila.pdb
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\obj\Debug\netcoreapp3.0\ColayPila.csprojAssemblyReference.cache
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\obj\Debug\netcoreapp3.0\ColayPila.AssemblyInfoInputs.cache
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\obj\Debug\netcoreapp3.0\ColayPila.AssemblyInfo.cs
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\obj\Debug\netcoreapp3.0\ColayPila.dll
+C:\Users\ROSY RIVERA\source\repos\ColayPila\ColayPila\obj\Debug\netcoreapp3.0\ColayPila.pdb
